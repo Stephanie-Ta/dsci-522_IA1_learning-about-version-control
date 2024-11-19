@@ -1,1 +1,2 @@
-# dsci-522_IA1_learning-about-version-control
+# Learning About Version Control
+Author: Stephanie Ta
